@@ -1,0 +1,3 @@
+include ':abdeLibr'
+include ':app'
+rootProject.name = "Abde_libr"
